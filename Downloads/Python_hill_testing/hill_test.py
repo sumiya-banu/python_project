@@ -5,7 +5,6 @@
 '''import serial
 import time
 
-
 # Initialize the serial connection (adjust parameters as needed)
 ser = serial.Serial(
     port='COM13',       # Replace with your UART port (e.g., /dev/ttyUSB0 on Linux)
